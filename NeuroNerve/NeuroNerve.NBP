@@ -6,7 +6,7 @@
  *
 */
 
-NeuroNerve.NBP class System{}
+NeuroNerve.NBP class System{
 
 /////Startup Log/////
  Starter.NBP{
@@ -39,6 +39,13 @@ SystemCommand::echo("Good In Check!")-;
  @AI(Hands.NBP ,Legs.NBP ,Body.NBP)-;
 }
   Return;0
+  }
+   @Info::IT.NBP{
+      &&Transfer=={
+        @Data::Input[Output]
+         System::Deep!()-;
+          Info----[Load]^2!
+                  }
   }
 
 
