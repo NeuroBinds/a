@@ -23,6 +23,21 @@ class IT Insert NerveGear.NBP{
      ?1 push AI::Nerve#Numbers%3{
        Click*Click*Transfer*Nano*(Open(Close(Open(Close(Continue)))))::Insert ?1
 }
+      Deflect::System(MIST(true)==@info==[de[fuse[system]]]{
+        null::DATA-;
+           Information(transfer*@de)--%file::management(true)-;
+                    }
+}
+          Open::==usage@(true)-;
+             format::Xeros{
+         input%output{
+             database*info::get@Nerve[send[send[send[get]]]]==(data)-;
+                     }
+          deflect(AI)[&&]{
+              null==true;
+                         }
+                           }
+
 
 
 
