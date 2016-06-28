@@ -47,7 +47,11 @@ SystemCommand::echo("Good In Check!")-;
           Info----[Load]^2!
                   }
   }
-
+         klog::apec-dias(miss){
+           rand#code("\*123::fopwoy&11[(false)fade::&"){
+                merge[file%empty@new+file$$set-data@dots.!!](mass)-;
+           }
+                               }
 
 
 
