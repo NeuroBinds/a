@@ -52,6 +52,14 @@ SystemCommand::echo("Good In Check!")-;
                 merge[file%empty@new+file$$set-data@dots.!!](mass)-;
            }
                                }
+                               function[dios-sy]<function.mv>(stands class){
+                                 open{
+                                      mic::klog as loops
+                                         redirect && {
+                                             none<null>
+                                              }
+                                               }
+                                }
 
 
 
