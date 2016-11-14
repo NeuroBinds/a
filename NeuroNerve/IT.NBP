@@ -11,6 +11,13 @@
 
 class IT Insert NerveGear.NBP{
   
+  /*
+   @static output
+  */
+  static ovios();
+  const null = [];
+  conv direction = arrays [1,2,3,4,5];
+  public output(Input[]); 
     Input(1)-;
     Input(2)-;
     Input(3)-;
